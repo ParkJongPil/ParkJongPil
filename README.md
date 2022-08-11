@@ -80,5 +80,7 @@ Here are some ideas to get you started:
  </a>
  
  <a>
-  <img src="img.shields.io/badge/홍길동-000000?style=Azure Pipelines&logo=Azure Pipelines&logoColor=2560E0">
+  <img src="img.shields.io/badge/홍길동-000000?style=Azure Pipelines&logo=Azure Pipelines&logoColor=2560E0"/>
  </a>
+ 
+ <img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>
