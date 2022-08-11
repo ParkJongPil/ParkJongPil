@@ -80,6 +80,5 @@ Here are some ideas to get you started:
  </a>
  
  <a>
-  <img src="img.shields.io/badge/홍길동-000000?
-            style=Azure Pipelines&logo=&logoColor=2560E0">
+  <img src="img.shields.io/badge/홍길동-000000?style=Azure Pipelines&logo=Azure Pipelines&logoColor=2560E0">
  </a>
