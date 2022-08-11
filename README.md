@@ -79,7 +79,14 @@ Here are some ideas to get you started:
   <img src="http://49.142.157.251:9090/javagreenS_lsp/rts_shop/rts_product/220804170124_f_6.jpg"/>
  </a>
  
- <a>
-  <img src="https://img.shields.io/badge/홍길동-000000?style=AzurePipelines&logo=AzurePipelines&logoColor=2560E0"/>
- </a>
+  <!--뱃지 등록하기  -->
+  <img src="https://img.shields.io/badge/홍길동-000000?style=for-the-badge&logo=AzurePipelines&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/홍길동-000000?style=badge&logo=AzurePipelines&logoColor=ffffff"/
+  <img src="https://img.shields.io/badge/홍길동-000000?style=plastic&logo=AzurePipelines&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/홍길동-000000?style=flat-square&logo=AzurePipelines&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/홍길동-000000?style=social&logo=AzurePipelines&logoColor=ffffff"/>
+  
+  <!--깃허브 상태(스탯-step) 등록하기 -->
+  <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJongPil&show_icons=true&theme=radical) -->
+ 
  
