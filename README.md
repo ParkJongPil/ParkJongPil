@@ -67,5 +67,12 @@ Here are some ideas to get you started:
   <li>축구</li>
   <li>농구</li>
   <li>야구</li>
-  <li></li>
 </ul>
+
+<hr/>
+
+<h2>어디로 갈까요?</h2>
+<p><a href="www.naver.com">네이버</p>
+<p><a href="www.daum.net">다음</p>
+  
+ 
