@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 <hr/>
 <h2>안녕하세요</h2>
 
-<ul>
+<ol>
   <li>축구</li>
   <li>농구</li>
   <li>야구</li>
-</ul>
+</ol>
 
 <hr/>
 
