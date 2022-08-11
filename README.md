@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <hr/>
 
 <h2>어디로 갈까요?</h2>
-<p><a href="www.naver.com">네이버</p>
-<p><a href="www.daum.net">다음</p>
+<p><a href="www.naver.com">네이버</a></p>
+<p><a href="www.daum.net">다음</a></p>
   
  
