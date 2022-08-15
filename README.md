@@ -2,6 +2,10 @@
 
 ![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
 <br/>
+# Hi there 👋
+<pre>
+  웹 개발자를 꿈꾸는 박종필입니다~
+</pre>
 
 <div> <h1>☾⋆⁺₊⋆ 📚 STACKS ☾⋆⁺₊⋆ </h1> </div>
 
@@ -26,11 +30,13 @@
 </div>
 <br/>
 <h2>⋆｡ﾟ✶° ⭐ contact to me ⭐ ⋆｡ﾟ✶°</h2>
-<div>
-  <a href="링크걸_주소">
+  
+  <a href="https://www.instagram.com/pill_life__0801">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-</div>
+  <a href="https://www.naver.com">
+    <img src="https://img.shields.io/badge/pjp8191@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/> 
+  </a>
 
 <!--깃허브 상태(스탯-step) 등록하기 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJongPil&show_icons=true&theme=dark)
