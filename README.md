@@ -26,5 +26,7 @@
 
 <h2 align="center">⋆｡ﾟ✶° ⭐ contact to me ⭐ ⋆｡ﾟ✶°</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="링크걸_주소">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
 </div>
