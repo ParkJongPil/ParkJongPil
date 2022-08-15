@@ -4,7 +4,7 @@
 <br/>
 # Hi there 👋
 <pre>
-  웹 개발자를 꿈꾸는 박종필입니다~
+  💻 웹 개발자를 꿈꾸는 박종필입니다!
 </pre>
 
 <div> <h1>☾⋆⁺₊⋆ 📚 STACKS ☾⋆⁺₊⋆ </h1> </div>
@@ -31,9 +31,10 @@
 <br/>
 <h2>⋆｡ﾟ✶° ⭐ contact to me ⭐ ⋆｡ﾟ✶°</h2>
   
-  <a href="https://www.instagram.com/pill_life__0801">
+  <a href="https://www.instagram.com/pill_life__0801"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+  <br/>
   <a href="https://www.naver.com">
     <img src="https://img.shields.io/badge/pjp8191@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/> 
   </a>
