@@ -1,10 +1,11 @@
 
 
 ![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
+<br/>
 
-<div align="center"> <h1>☾⋆⁺₊⋆ 📚 STACKS ☾⋆⁺₊⋆ </h1> </div>
+<div> <h1>☾⋆⁺₊⋆ 📚 STACKS ☾⋆⁺₊⋆ </h1> </div>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/java-EF2D5E?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
@@ -23,10 +24,18 @@
   <img src="https://img.shields.io/badge/JSP-FF0000?style=for-the-badge&logo=JSP&logoColor=white"> 
   <img src="https://img.shields.io/badge/W3C-3DDC84?style=for-the-badge&logo=W3C&logoColor=white">
 </div>
-
-<h2 align="center">⋆｡ﾟ✶° ⭐ contact to me ⭐ ⋆｡ﾟ✶°</h2>
-<div align="center">
+<br/>
+<h2>⋆｡ﾟ✶° ⭐ contact to me ⭐ ⋆｡ﾟ✶°</h2>
+<div>
   <a href="링크걸_주소">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
+
+<!--깃허브 상태(스탯-step) 등록하기 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParkJongPil&show_icons=true&theme=dark)
+
+<!--방문자 수 확인하기  -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkJongPil%2FParkJongPil%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
