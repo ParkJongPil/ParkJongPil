@@ -1,7 +1,7 @@
 
 ![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
 <br/>
-![꽃](<img src="http://49.142.157.251:9090/javagreenJ_pjp/data/board/%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4%EB%B0%B1%ED%95%A9.jpg"/>)
+![사람](https://github.com/ParkJongPil/springframework/blob/master/src/main/webapp/resources/images/m11.jpg?raw=true)
 
 # Hi there 👋
 <pre>
