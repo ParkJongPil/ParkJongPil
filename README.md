@@ -3,7 +3,7 @@
 <br/>
 <hr/>
 
-<p><a href="https://github.com/ParkJongPil/springframework" target="_blank"><img src="https://github.com/ParkJongPil/springframework/blob/master/src/main/webapp/resources/images/m11.jpg?raw=true"/></a></p>
+<p><a href="https://github.com/ParkJongPil/food-recommendation-Site"><img src="https://github.com/ParkJongPil/springframework/blob/master/src/main/webapp/resources/images/m11.jpg?raw=true"/></a></p>
 
 # Hi there 👋
 <pre>
