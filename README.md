@@ -2,9 +2,6 @@
 ![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
 <br/>
 <hr/>
-
-<p><a href="https://github.com/ParkJongPil/food-recommendation-Site"><img src="https://github.com/ParkJongPil/springframework/blob/master/src/main/webapp/resources/images/m11.jpg?raw=true"/></a></p>
-
 # Hi there 👋
 <pre>
   💻 웹 개발자를 꿈꾸는 박종필입니다!
